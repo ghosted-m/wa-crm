@@ -1,0 +1,3 @@
+{
+  "/api/whatsapp/broadcast/[id]/resume/route": "app/api/whatsapp/broadcast/[id]/resume/route.js"
+}

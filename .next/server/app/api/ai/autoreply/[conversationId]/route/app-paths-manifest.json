@@ -1,0 +1,3 @@
+{
+  "/api/ai/autoreply/[conversationId]/route": "app/api/ai/autoreply/[conversationId]/route.js"
+}
